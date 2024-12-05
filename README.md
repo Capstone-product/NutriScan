@@ -25,7 +25,7 @@ The **Fruit Identification and Calorie Estimation System** is a mobile applicati
 ## Technology Stack  
 
 ### **Machine Learning**  
-- **Tools/IDEs**: Google Colab Pro, Jupyter Notebook  
+- **Tools/IDEs**: Google Colab, Jupyter Notebook  
 - **Libraries**: TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib  
 - **Frameworks**: Convolutional Neural Networks (CNN)  
 
