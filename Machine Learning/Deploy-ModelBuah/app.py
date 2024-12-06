@@ -21,7 +21,7 @@ import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 # Import model
-model = keras.models.load_model("inal.h5")
+model = keras.models.load_model("final.h5")
 
 def transform_image(img):
     img = img.resize((224, 224))
