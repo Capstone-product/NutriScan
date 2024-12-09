@@ -7,7 +7,7 @@ const storage = new Storage({
   keyFilename: './serviceAccountKey.json',
 });
 
-const bucketName = 'fruits-image';
+const bucketName = 'capstone-fruits';
 
 const predBuah = async (req, res) => {
   try {
