@@ -7,7 +7,7 @@ const storage = new Storage({
   keyFilename: './serviceAccountKey.json',
 });
 
-const bucketName = 'fruits-image';
+const bucketName = 'capstone-fruits';
 
 const getCategoryFolder = (category) => {
   // Membuat mapping antara kategori dan folder penyimpanan
@@ -21,7 +21,11 @@ const getCategoryFolder = (category) => {
     jeruk: 'orange',
     pear: 'pear',
     nanas: 'pineapple',
-    semangka: 'watermelon'
+    semangka: 'watermelon',
+    ceri: 'cherry',
+    stroberi: 'strawberry',
+    jambubiji: 'guava',
+    buahnaga: 'dragonfruit'
   };
 
   return categoryFolders[category];
