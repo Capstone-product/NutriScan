@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NutriScan</string>
+
+    <string name="event_logo">Event Logo</string>
+    <string name="title_activity_main_bottom">MainActivityBottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title">Title</string>
+    <string name="title_dictionary">Kamus</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="scan">Scan It</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">INI FRAGEMENT CAMERA</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="welcome">Welcome To NutriScan</string>
+    <string name="kalori">Kalori</string>
+    <string name="karbohidrat_g">Karbohidrat(g)</string>
+    <string name="lemak_g">lemak(g)</string>
+    <string name="protein_g">Protein(g)</string>
+    <string name="colon">:</string>
+
+
+    <!-- Nama Buah -->
+    <string-array name="fruit_names">
+        <item>Anggur</item>
+        <item>Apel</item>
+        <item>Buah Naga</item>
+        <item>Ceri</item>
+        <item>Durian</item>
+        <item>Jambu Biji</item>
+        <item>Jeruk</item>
+        <item>Kiwi</item>
+        <item>Lemon</item>
+        <item>Mangga</item>
+        <item>Nanas</item>
+        <item>Pir</item>
+        <item>Pisang</item>
+        <item>Semangka</item>
+        <item>Stroberi</item>
+    </string-array>
+
+    <!-- Deskripsi Buah -->
+    <string-array name="fruit_dictionary">
+        <item>Anggur adalah buah kecil yang kaya nutrisi dan sering dikonsumsi segar atau dijadikan jus. Dalam 100 gram, anggur mengandung 69 kalori. Buah ini kaya akan antioksidan, seperti resveratrol, yang bermanfaat untuk kesehatan jantung dan melawan radikal bebas. Selain itu, anggur mengandung vitamin C dan K yang penting untuk kekebalan tubuh dan kesehatan tulang.</item>
+        <item>Apel adalah salah satu buah paling populer di dunia dengan rasa manis segar. Mengandung 52 kalori per 100 gram, apel kaya akan serat yang mendukung kesehatan pencernaan dan membantu mengontrol gula darah. Vitamin C dalam apel juga memperkuat sistem imun, sementara antioksidan flavonoid membantu melindungi sel dari kerusakan.</item>
+        <item>Buah naga, dengan dagingnya yang berwarna putih atau merah, kaya akan antioksidan seperti betasianin. Buah ini hanya mengandung 50 kalori per 100 gram dan merupakan sumber serat yang baik untuk pencernaan. Kandungan vitamin C-nya membantu meningkatkan sistem imun dan kesehatan kulit.</item>
+        <item>Ceri dikenal karena warnanya yang merah cerah dan rasanya yang manis asam. Dalam 100 gram, ceri mengandung 50 kalori. Buah ini kaya akan antiosianin, antioksidan yang membantu mengurangi peradangan dan baik untuk kesehatan jantung. Ceri juga mengandung melatonin alami, yang dapat meningkatkan kualitas tidur.</item>
+        <item>Durian sering disebut sebagai "raja buah" karena aroma dan rasanya yang khas. Dalam 100 gram, durian mengandung 147 kalori, menjadikannya buah berenergi tinggi. Kandungan lemak sehat, karbohidrat, serta vitamin B kompleks membuat durian baik untuk fungsi saraf dan memberikan energi tambahan.</item>
+        <item>Jambu biji adalah buah tropis yang dikenal karena kandungan vitamin C-nya yang tinggi, bahkan lebih tinggi dari jeruk. Dalam 100 gram, jambu biji mengandung 68 kalori. Buah ini juga kaya serat, yang baik untuk pencernaan, serta mengandung antioksidan yang membantu melawan infeksi dan menjaga kulit tetap sehat.</item>
+        <item>Jeruk adalah buah sitrus yang sangat populer karena kaya vitamin C. Dalam 100 gram, jeruk hanya mengandung 47 kalori, sehingga cocok untuk diet sehat. Jeruk juga mengandung flavonoid, antioksidan yang membantu melindungi tubuh dari penyakit kardiovaskular dan memperbaiki kerusakan sel.</item>
+        <item>Kiwi adalah buah hijau kecil yang mengandung 61 kalori per 100 gram. Buah ini kaya akan vitamin C (dua kali lipat dari jeruk) dan potasium. Selain itu, kiwi mengandung serat yang baik untuk pencernaan, serta membantu menjaga tekanan darah tetap stabil.</item>
+        <item>Lemon adalah buah asam yang sering digunakan sebagai penyedap atau minuman. Dalam 100 gram, lemon hanya memiliki 29 kalori. Lemon kaya akan vitamin C dan asam sitrat, yang membantu detoksifikasi tubuh, meningkatkan metabolisme, dan mencerahkan kulit.</item>
+        <item>Mangga adalah buah tropis manis yang mengandung 60 kalori per 100 gram. Mangga kaya akan vitamin A, yang penting untuk kesehatan mata. Selain itu, kandungan enzim pencernaannya membantu melancarkan pencernaan, dan antioksidannya mendukung kesehatan kulit.</item>
+        <item>Nanas adalah buah tropis yang mengandung 50 kalori per 100 gram. Buah ini mengandung bromelain, enzim yang membantu pencernaan protein. Kaya vitamin C, nanas juga membantu meningkatkan sistem imun dan melawan peradangan.</item>
+        <item>Pir adalah buah manis dengan tekstur yang lembut. Dalam 100 gram, pir mengandung 57 kalori. Kaya serat dan vitamin C, pir membantu menjaga kesehatan pencernaan dan meningkatkan daya tahan tubuh. Antioksidan dalam pir juga melindungi sel dari kerusakan.</item>
+        <item>Pisang adalah sumber energi instan dengan 89 kalori per 100 gram. Tinggi potasium, buah ini membantu menjaga kesehatan otot dan mengatur tekanan darah. Pisang juga mengandung vitamin B6, yang penting untuk produksi energi dan fungsi otak.</item>
+        <item>Semangka adalah buah segar yang mengandung 92% air, menjadikannya pilihan ideal untuk hidrasi. Dalam 100 gram, semangka hanya memiliki 30 kalori. Kaya akan likopen, antioksidan ini mendukung kesehatan jantung dan melindungi kulit dari kerusakan akibat sinar matahari.</item>
+        <item>Stroberi adalah buah merah kecil yang manis dan rendah kalori (32 kalori per 100 gram). Kaya akan vitamin C dan mangan, stroberi juga mengandung antosianin, antioksidan yang membantu meningkatkan kesehatan jantung dan otak.</item>
+    </string-array>
+
+    <string-array name="fruit_article_name">
+        <item>Segar Bugar dengan Buah Sehari-hari: Manfaat Tak Terduga untuk Tubuh</item>
+        <item>5 Buah Ajaib untuk Kulit Glowing: Rahasia Kecantikan Alami</item>
+        <item>Buah-buahan Tropis: Lebih dari Sekadar Lezat, Juga Kaya Nutrisi</item>
+        <item>Buah untuk Sarapan: Energi Maksimal untuk Mulai Hari</item>
+        <item>Mitos atau Fakta: Buah Makan Malam Bikin Gemuk?</item>
+        <item>Buah Kering vs. Buah Segar: Mana yang Lebih Baik untuk Kesehatan?</item>
+        <item>Resep Smoothie Sehat: Padukan Buah dengan Bahan Lainnya untuk Nutrisi Tambah</item>
+        <item>Buah untuk Ibu Hamil: Nutrisi Penting untuk Bumil dan Janin</item>
+        <item>Cara Memilih dan Menyimpan Buah Agar Tetap Segar dan Bergizi</item>
+        <item>Buah-buahan Lokal: Dukung Petani dan Nikmati Kelezatan Alami</item>
+    </string-array>
+
+
+    <string-array name="fruit_article">
+        <item>Buah-buahan, dengan warna-warni cerah dan rasa yang segar, bukan hanya sekadar camilan lezat. Di balik manisnya, buah-buahan menyimpan segudang nutrisi penting yang dibutuhkan tubuh. Kaya akan vitamin, mineral, serat, dan antioksidan, buah-buahan berperan penting dalam menjaga kesehatan tubuh secara keseluruhan. Mulai dari meningkatkan sistem imun, menjaga kesehatan jantung, hingga membantu menurunkan berat badan, manfaat buah-buahan sungguh luar biasa. Jadi, jangan lewatkan kesempatan untuk menikmati lezatnya buah-buahan setiap hari dan rasakan sendiri perubahan positifnya pada kesehatan Anda.</item>
+        <item>Ingin memiliki kulit yang sehat dan bercahaya? Selain perawatan kulit dari luar, asupan nutrisi dari dalam juga sangat penting. Beberapa jenis buah-buahan kaya akan vitamin C, E, dan antioksidan yang sangat baik untuk kesehatan kulit. Buah-buahan seperti stroberi, kiwi, jeruk, mangga, dan avokad tidak hanya lezat, tetapi juga dapat membantu mencerahkan kulit, mengurangi peradangan, dan memperlambat proses penuaan. Jadi, jangan ragu untuk memasukkan buah-buahan ini ke dalam menu harian Anda dan rasakan perubahannya pada kulit Anda.</item>
+        <item>Indonesia sangat beruntung memiliki kekayaan alam yang melimpah, termasuk berbagai jenis buah-buahan tropis. Buah-buahan seperti mangga, pisang, nanas, dan durian tidak hanya memanjakan lidah, tetapi juga kaya akan nutrisi yang dibutuhkan tubuh. Mangga misalnya, kaya akan vitamin A yang baik untuk kesehatan mata. Pisang mengandung kalium yang penting untuk menjaga tekanan darah. Sementara itu, nanas mengandung enzim bromelain yang dapat membantu pencernaan. Jadi, nikmati kelezatan buah-buahan tropis sambil menjaga kesehatan tubuh Anda.</item>
+        <item>Memulai hari dengan sarapan yang sehat sangat penting untuk memberikan energi sepanjang hari. Buah-buahan adalah pilihan yang sangat baik untuk sarapan karena kaya akan serat yang membuat kita kenyang lebih lama dan memberikan energi yang stabil. Selain itu, buah-buahan juga mengandung berbagai nutrisi penting yang dibutuhkan tubuh untuk beraktivitas. Beberapa ide sarapan sehat dengan buah-buahan antara lain smoothie bowl, oatmeal dengan topping buah-buahan, atau sandwich dengan selai buah.</item>
+        <item>Seringkali kita mendengar mitos bahwa makan buah di malam hari dapat menyebabkan kenaikan berat badan. Padahal, anggapan tersebut tidak sepenuhnya benar. Buah-buahan mengandung sedikit kalori dan kaya akan serat, sehingga tidak akan membuat Anda gemuk jika dikonsumsi dalam jumlah yang wajar. Justru, buah-buahan dapat membantu meningkatkan metabolisme dan membantu Anda merasa kenyang lebih lama. Namun, perlu diingat untuk tidak mengonsumsi buah-buahan yang terlalu manis sebelum tidur agar tidak mengganggu kualitas tidur.</item>
+        <item>Seringkali kita dihadapkan pada pilihan antara buah segar dan buah kering. Keduanya memiliki kelebihan dan kekurangan masing-masing. Buah segar mengandung lebih banyak air dan vitamin yang mudah rusak oleh panas. Sementara itu, buah kering lebih praktis dan memiliki konsentrasi nutrisi yang lebih tinggi karena kadar airnya yang rendah. Namun, proses pengeringan juga dapat mengurangi kandungan nutrisi tertentu. Secara umum, baik buah segar maupun buah kering sama-sama bermanfaat untuk kesehatan. Yang terpenting adalah mengonsumsinya secara seimbang dan memilih buah kering yang tidak terlalu banyak tambahan gula.</item>
+        <item>Smoothie adalah minuman sehat yang mudah dibuat dan bisa disesuaikan dengan selera. Dengan menggabungkan berbagai jenis buah-buahan, sayuran, dan bahan lainnya, kita dapat menciptakan smoothie yang kaya akan nutrisi dan lezat. Misalnya, smoothie hijau dengan bayam, pisang, dan alpukat sangat baik untuk detoks. Smoothie buah berry dengan yogurt dan madu bisa menjadi sumber energi yang baik.  Dengan sedikit kreativitas, kita bisa membuat berbagai variasi smoothie yang sehat dan menyegarkan.</item>
+        <item>Selama kehamilan, kebutuhan nutrisi ibu hamil meningkat. Buah-buahan menjadi salah satu sumber nutrisi penting yang harus dikonsumsi secara teratur. Buah-buahan kaya akan vitamin, mineral, dan serat yang dibutuhkan untuk pertumbuhan dan perkembangan janin. Selain itu, buah-buahan juga dapat membantu mengatasi morning sickness dan sembelit yang sering dialami ibu hamil. Beberapa buah yang baik untuk ibu hamil antara lain apel, pisang, jeruk, dan avokad.</item>
+        <item>Agar buah-buahan yang kita konsumsi tetap segar dan bergizi, kita perlu mengetahui cara memilih dan menyimpannya dengan benar. Saat memilih buah, perhatikan kematangan buah, hindari buah yang terlalu matang atau terlalu mentah. Setelah dibeli, simpan buah-buahan di tempat yang sejuk dan kering, atau di dalam kulkas untuk jenis buah tertentu. Hindari menyimpan buah-buahan bersama dengan buah-buahan lain yang menghasilkan gas etilen, seperti apel dan pisang, karena dapat mempercepat pematangan buah lainnya.</item>
+        <item>Mengonsumsi buah-buahan lokal memiliki banyak manfaat. Selain mendapatkan buah-buahan yang lebih segar dan bergizi, kita juga turut mendukung petani lokal. Buah-buahan lokal biasanya lebih murah dan memiliki rasa yang lebih autentik dibandingkan buah-buahan impor. Selain itu, dengan mengonsumsi buah-buahan lokal, kita juga turut melestarikan lingkungan dan mengurangi emisi karbon dari transportasi. Mari kita mulai kebiasaan mengonsumsi buah-buahan lokal untuk mendukung pertanian berkelanjutan.</item>
+    </string-array>
+
+    <integer-array name="article_image">
+        <item>@drawable/article_1</item>
+        <item>@drawable/article_2</item>
+        <item>@drawable/article_3</item>
+        <item>@drawable/article_4</item>
+        <item>@drawable/article_5</item>
+        <item>@drawable/article_6</item>
+        <item>@drawable/article_7</item>
+        <item>@drawable/article_8</item>
+        <item>@drawable/article_9</item>
+        <item>@drawable/article_10</item>
+    </integer-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/anggur</item>
+        <item>@drawable/apel</item>
+        <item>@drawable/naga</item>
+        <item>@drawable/ceri</item>
+        <item>@drawable/durian</item>
+        <item>@drawable/jambu</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/kiwi</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/mangga</item>
+        <item>@drawable/nanas</item>
+        <item>@drawable/pir</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/semangka</item>
+        <item>@drawable/strawberry</item>
+    </integer-array>
+</resources>
