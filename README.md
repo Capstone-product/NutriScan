@@ -35,7 +35,7 @@ The **Fruit Identification and Calorie Estimation System** is a mobile applicati
 
 ### **Mobile Development**  
 - **Tools/IDEs**: Android Studio, Figma  
-- **Libraries**: TensorFlow Lite, Retrofit  
+- **Libraries**: Retrofit  
 - **Languages**: Kotlin
 
 ### **App Preview**
